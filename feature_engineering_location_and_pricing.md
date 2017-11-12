@@ -1,7 +1,11 @@
-The following R Markdown document contains: \* Feature engineering \*
-Algorithm development \* Data manipulation/cleaning with dplyr package
-\* Data visualization with ggplot2 and ggmap packages \* Descriptive
-statistics
+# Feature Engineering - Location & Pricing
+
+The following R Markdown document contains: 
+
+* Data manipulation/cleaning
+* Data visualization
+* Descriptive statistics
+* Feature engineering 
 
 In this notebook I've created an algorithm to engineer a new feature
 that has predictive power for our target variable. The algorithm builds
