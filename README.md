@@ -1,7 +1,7 @@
 # Apartment-Listing-Interest-Level
-Exploratory data analysis investigating the factors that affect the purchasing decisions of apartment renters. 
+Exploratory data analysis investigating the factors affecting purchasing decisions of apartment renters.
 
-Data was pulled from Kaggle, from the Two Sigma Connect predictive modeling competition. This repository includes: 
+This repo includes: 
 
  * Data cleaning/transformation
  * Data visualization
@@ -9,4 +9,4 @@ Data was pulled from Kaggle, from the Two Sigma Connect predictive modeling comp
  * Descriptive statistics
  * Feature engineering
 
-Link to data source: https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
+Data was pulled from Kaggle, from the Two Sigma Connect predictive modeling competition. Link to data source: https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
