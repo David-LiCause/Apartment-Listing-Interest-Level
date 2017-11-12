@@ -1,6 +1,11 @@
-The following R Markdown doc contains: \* Data cleaning/transformation
-using the dplyr package \* Data visualizations using the ggplot2 and
-ggmap packages \* Exploratory data analysis with inferential statistics
+# Exploratory Data Analysis - Location
+
+The following R Markdown doc contains: 
+
+* Data cleaning/transformation 
+* Data visualization
+* Exploratory data analysis
+* Descriptive statistics
 
 The premise of this business problem seems pretty clear (like all Kaggle
 competitions) - predict the popularity of apartment listings from an
