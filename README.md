@@ -9,4 +9,4 @@ This repo includes:
  * Descriptive statistics
  * Feature engineering
 
-Data was pulled from Kaggle, from the Two Sigma Connect predictive modeling competition. Link to data source: https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
+Data was pulled from Kaggle, from the Two Sigma Connect competition. Link to data source: https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
