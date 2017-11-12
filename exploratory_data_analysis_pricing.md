@@ -1,6 +1,11 @@
-The following R Markdown doc contains: \* Data cleaning/transformation
-using the dplyr package \* Data visualizations using the ggplot2 and
-ggmap packages \* Exploratory data analysis with inferential statistics
+# Exploratory Data Analysis - Pricing
+
+The following R Markdown doc contains: 
+
+* Data cleaning/transformation
+* Data visualization
+* Exploratory data analysis
+* Descriptive statistics
 
 Following up on the previous exploratory data analysis script, this
 notebook focuses on pricing data.
