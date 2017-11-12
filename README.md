@@ -8,3 +8,5 @@ Data was pulled from Kaggle, from the Two Sigma Connect predictive modeling comp
  * Exploratory data analysis
  * Descriptive statistics
  * Feature engineering
+
+Link to data source: https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
